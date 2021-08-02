@@ -1,3 +1,3 @@
-# SwipeGuesture Test
+# SwipeGesture Test
 
-Test to see if 
+Test to see if swipeGesture does anything on ion-router-outlet
